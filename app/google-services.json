@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711304735960",
+    "firebase_url": "https://qrcoder-48496.firebaseio.com",
+    "project_id": "qrcoder-48496",
+    "storage_bucket": "qrcoder-48496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711304735960:android:7609a28bbae2dd978d3bad",
+        "android_client_info": {
+          "package_name": "com.example.qropener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711304735960-90ch00s4kvn9copp6mhfntbk1pu1fujk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qropener",
+            "certificate_hash": "9741d331e4b76cba4ceda13a43cbee0cbdb1377a"
+          }
+        },
+        {
+          "client_id": "711304735960-anssbhu6jn9jq3aji0nmcp8ca0sbongt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhR_mtxd2k2HaivSkd2I5rilBX4jQ2EWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711304735960-anssbhu6jn9jq3aji0nmcp8ca0sbongt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
